@@ -1,2 +1,2 @@
 # claudeCodeQuickStart
-The intention behind this repo is to setup up Claude Code for anyone trying to learn in an all free tier resources.
+Bring your own free accounts, run one setup script, start building with Claude Code.
